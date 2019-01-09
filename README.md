@@ -1,4 +1,4 @@
-# Personal bucked list
+# Personal bucket list
 
 
 > Quite like the idea of one fella to 
