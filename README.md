@@ -42,11 +42,11 @@
 ## MongoDB
 
 - [x] __[Basic MongoDB 001](http://university.mongodb.com/course_completion/2c2f8486-17d1-4dab-b0a2-77c88895)__
-- [ ] __[Mongo for JS M220](http://university.mongodb.com/course_completion/2c2f8486-17d1-4dab-b0a2-77c88895)__
+- [X] __[Mongo for JS M220](http://university.mongodb.com/course_completion/2c2f8486-17d1-4dab-b0a2-77c88895)__
 - [ ] in progress
 
 ## Mixed
-
+- [ ] [Попасть в ШРИ]()
 - [X] [Zero-to-Mastery](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/)
 - [ ] [Zero-to-Mastery 2](https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/learn/v4/)
 - [ ] [Colt Steele bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
