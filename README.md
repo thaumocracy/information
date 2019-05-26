@@ -3,7 +3,6 @@
 
 # Personal bucket list
 
-
 > Quite like the idea of one fella to 
 > list personal goal here,so here it goes.
 > 
@@ -54,6 +53,11 @@
 ---
 Seems enough for now,will be updated later
 ##CSS
+- [ ] Learn SASS
+- [ ] in progress
+- [ ] in progress
 ##HTML
-
+- [ ] Learn Pug
+- [ ] in progress
+- [ ] in progress
 
